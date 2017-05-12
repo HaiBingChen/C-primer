@@ -1,18 +1,17 @@
 #include <iostream>
 #include <stdexcept>
+#include <_8_3.hpp>
 
-using namespace std;
-
-istream &fun(istream &in);
-
+/*
 int main(void)
 {
-	fun(cin);
+	get(cin);
 
 	return 0;
 }
+*/
 
-istream &fun(istream &in)
+istream &get(istream &in)
 {
 	string val;
 
