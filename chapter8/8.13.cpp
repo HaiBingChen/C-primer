@@ -16,4 +16,4 @@ ofstream& open_file(ofstream& out, const tring file)
 int main(void)
 {
 	return 0;
-}
+}	
